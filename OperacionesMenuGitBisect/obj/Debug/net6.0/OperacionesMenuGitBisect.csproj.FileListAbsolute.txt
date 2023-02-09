@@ -1,0 +1,15 @@
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\bin\Debug\net6.0\OperacionesMenuGitBisect.exe
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\bin\Debug\net6.0\OperacionesMenuGitBisect.deps.json
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\bin\Debug\net6.0\OperacionesMenuGitBisect.runtimeconfig.json
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\bin\Debug\net6.0\OperacionesMenuGitBisect.dll
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\bin\Debug\net6.0\OperacionesMenuGitBisect.pdb
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.csproj.AssemblyReference.cache
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.AssemblyInfoInputs.cache
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.AssemblyInfo.cs
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.csproj.CoreCompileInputs.cache
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.dll
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\refint\OperacionesMenuGitBisect.dll
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.pdb
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\OperacionesMenuGitBisect.genruntimeconfig.cache
+C:\Users\daycasti\source\repos\GitBisect\OperacionesMenuGitBisect\obj\Debug\net6.0\ref\OperacionesMenuGitBisect.dll
