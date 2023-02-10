@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LFBN4EBE77YRtUZAw3mabHpQ/itmPNBTyD6u+h8IUjoUVn0SQBHuJlbpCvs8izIUMmoF/YKvYShky0fOY4BGQQ==",
+  "dgSpecHash": "WxBQZ9y00sLzhMl0eJg7mWlE0yx1R4QwQmD7oqmDqfhDqlV7bXOz4EfnEroLP39eSVn2zJUpBDqnMiwuER0GkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daycasti\\source\\repos\\GitBisect\\OperacionesMenuGitBisect\\OperacionesMenuGitBisect.csproj",
+  "projectFilePath": "C:\\Users\\josuntax\\Source\\Repos\\GitBisect\\OperacionesMenuGitBisect\\OperacionesMenuGitBisect.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\daycasti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
-    "C:\\Users\\daycasti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\daycasti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\daycasti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+    "C:\\Users\\josuntax\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\josuntax\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\josuntax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\josuntax\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,8 @@
 ﻿int opcion;
 int num;
 bool salir = false;
+int v1 = 0;
+int v2 = 1;
 
 do
 {
@@ -9,7 +11,8 @@ do
     Console.WriteLine("1.Factorial");
     Console.WriteLine("2.Numeros pares");
     Console.Write("3.Numeros impares");
-    Console.WriteLine("3.Salir");
+    Console.WriteLine("4.Fibonacci ");
+    Console.WriteLine("5.Salir");
     Console.Write("\n Elija la opcion que desee:  ");
     opcion = Convert.ToInt32(Console.ReadLine());
     switch (opcion)
@@ -65,8 +68,26 @@ do
             }
             Console.WriteLine("\n\n\t Presione cualquier tecla para volver al menu");
             Console.ReadKey();
-         
+
         case 4:
+            Console.Clear();
+            Console.WriteLine(" Fibonacci  ");
+            Console.WriteLine("\t\t" + v1);
+            for (int i = 0; i < 30; i++)
+            {
+                //Almacenamos el valor v1 en una variable temporal para no perderlo.
+                int temp = v1;
+                //El valor 1 se convierte en el valor 2.
+                v1 = v2;
+                //Sumamos los valores.
+                v2 = temp + v1;
+                //Mostramos por pantalla el resultado. 
+                Console.WriteLine("\t\t" + v1);
+            }
+            Console.WriteLine("\n\n\t Presione cualquier tecla para volver al menu");
+            Console.ReadKey();
+            break;
+        case 5:
             Console.Clear();
             Console.WriteLine("Salir de la aplicacion");
             salir = true;
